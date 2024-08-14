@@ -1,4 +1,4 @@
-﻿Normal text 
+﻿Normal text
 # Heading level 1
 ## Heading level 2
 ### Heading level 3
@@ -6,8 +6,8 @@ xcxzczxxcxzczx
 #### Heading level 4
 ##### Heading level 5
 ###### Heading level 6
+sadsasds
 
-<<<<<<< HEAD
 789 \
 456 \
 123 \
@@ -15,9 +15,6 @@ xcxzczxxcxzczx
 I really love flip phones
 
 asdsadasdsdadas<br>
-=======
-Something new, :)
->>>>>>> e326bbbbbf8bb843fc8ed4340186136c92993fa8
 ¯\\_(ツ)_/¯ <br>
 \- "\\" backslash is an escape character, it makes the next character plaintext
 - First item
