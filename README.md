@@ -1,4 +1,4 @@
-﻿Normal text
+﻿Normal text 
 # Heading level 1
 ## Heading level 2
 ### Heading level 3
@@ -6,14 +6,8 @@ xcxzczxxcxzczx
 #### Heading level 4
 ##### Heading level 5
 ###### Heading level 6
-sadsasds
 
-789 \
-456 \
-123 \
-#0* \
-
-asdsadasdsdadas<br>
+Something new, :)
 ¯\\_(ツ)_/¯ <br>
 \- "\\" backslash is an escape character, it makes the next character plaintext
 - First item
